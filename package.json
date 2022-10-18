@@ -1,0 +1,20 @@
+{
+  "name": "release-info",
+  "version": "1.0.0",
+  "description": "Extract the latest version information of the current project into your file, no longer worry about forgetting which version was released.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/wll8/release-info",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wll8/release-info.git"
+  },
+  "bin": "./index.js",
+  "keywords": ["release", "deploy"],
+  "author": "wll8",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
