@@ -47,3 +47,7 @@ filePath -- Write information to file as comments
 ext -- Specify the file suffix (without dots), which is automatically judged by the file name by default
 reset -- Whether to overwrite the file content, equivalent to creating a file, the default is false
 ```
+
+### todo
+- [ ] feat: change version number
+  - For example, `version=minor` increases the minor version number and gets the update log before the last version of the current branch
